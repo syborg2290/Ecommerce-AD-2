@@ -1,0 +1,7 @@
+/home/kasun-webmotech/Desktop/esoft/ecommerce-AD/bin/Release/net6.0/publish/ecommerce-AD
+/home/kasun-webmotech/Desktop/esoft/ecommerce-AD/bin/Release/net6.0/publish/appsettings.Development.json
+/home/kasun-webmotech/Desktop/esoft/ecommerce-AD/bin/Release/net6.0/publish/appsettings.json
+/home/kasun-webmotech/Desktop/esoft/ecommerce-AD/bin/Release/net6.0/publish/ecommerce-AD.dll
+/home/kasun-webmotech/Desktop/esoft/ecommerce-AD/bin/Release/net6.0/publish/ecommerce-AD.deps.json
+/home/kasun-webmotech/Desktop/esoft/ecommerce-AD/bin/Release/net6.0/publish/ecommerce-AD.runtimeconfig.json
+/home/kasun-webmotech/Desktop/esoft/ecommerce-AD/bin/Release/net6.0/publish/ecommerce-AD.pdb
